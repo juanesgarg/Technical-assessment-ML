@@ -1,0 +1,28 @@
+check,entidad,detalle
+sesion_parcial,2026-08-25,Al corte (09:30 CT) lleva 16.5 de 23 horas
+balance_cero_con_fills,ACC-2028 (T-025),"balance=0.0, 3 fills"
+cuenta_demo,ACC-2047 (T-043),0 fills
+cuenta_no_activa_con_fills,ACC-2053 (T-040),"status=closed, 20 fills"
+cuenta_no_activa_con_fills,ACC-2054 (T-041),"status=restricted, 3 fills"
+historial_corto,ACC-2027,solo 1 sesión(es)
+historial_corto,ACC-2028,solo 1 sesión(es)
+historial_corto,ACC-2029,solo 2 sesión(es)
+historial_corto,ACC-2054,solo 2 sesión(es)
+trader_multicuenta,T-018,"ACC-2018, ACC-2019, ACC-2020"
+trader_multicuenta,T-019,"ACC-2021, ACC-2022"
+trader_multicuenta,T-040,"ACC-2043, ACC-2053"
+trader_multicuenta,T-041,"ACC-2044, ACC-2054"
+trader_multicuenta,T-043,"ACC-2046, ACC-2047"
+nombre_duplicado,"T-001, T-017",Mateo Herrera
+excede_max_position,ACC-2013,máx 9 vs límite 5
+excede_max_position,ACC-2025,máx 32 vs límite 20
+instrumento_poco_operado,CL,solo 3 fills
+precio_atipico,FIL-600158 ACC-2026,MCL @ 75.3
+precio_atipico,FIL-600360 ACC-2051,MCL @ 71.71
+precio_atipico,FIL-600647 ACC-2051,MCL @ 69.6
+precio_atipico,FIL-601604 ACC-2051,MCL @ 72.39
+precio_atipico,FIL-602041 ACC-2052,MCL @ 77.2
+precio_atipico,FIL-602388 ACC-2052,MCL @ 76.46
+precio_atipico,FIL-603143 ACC-2045,MCL @ 75.79
+precio_atipico,FIL-604239 ACC-2033,MCL @ 79.29
+precio_atipico,FIL-604620 ACC-2033,MCL @ 76.35

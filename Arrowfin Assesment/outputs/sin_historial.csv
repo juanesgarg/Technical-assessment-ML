@@ -1,0 +1,4 @@
+trader_id,session_date,n_accounts,n_orders,contracts,net_pnl_usd,n_hist,base_pnl,base_disp,base_contracts,peor_previa,z,tamano_vs_normal,peor_que_su_peor
+T-024,2026-08-25,1,8,38,-1579.6,0,,,,,,,False
+T-025,2026-08-25,1,3,5,-72.0,0,,,,,,,False
+T-026,2026-08-25,1,4,6,-127.95,1,,,6.0,-90.45,,1.0,True

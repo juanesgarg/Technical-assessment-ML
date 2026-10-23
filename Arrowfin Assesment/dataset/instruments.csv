@@ -1,0 +1,9 @@
+symbol,description,exchange,point_value_usd,tick_size,tick_value_usd,initial_margin_usd,maintenance_margin_usd
+ES,E-mini S&P 500,CME,50,0.25,12.50,13200,12000
+MES,Micro E-mini S&P 500,CME,5,0.25,1.25,1320,1200
+NQ,E-mini Nasdaq-100,CME,20,0.25,5.00,17600,16000
+MNQ,Micro E-mini Nasdaq-100,CME,2,0.25,0.50,1760,1600
+CL,Crude Oil,NYMEX,1000,0.01,10.00,6600,6000
+MCL,Micro Crude Oil,NYMEX,100,0.01,1.00,660,600
+GC,Gold,COMEX,100,0.1,10.00,11000,10000
+6E,Euro FX,CME,125000,5e-05,6.25,2420,2200
