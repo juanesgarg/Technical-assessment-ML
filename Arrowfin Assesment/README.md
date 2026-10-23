@@ -4,7 +4,7 @@
 
 **Time spent:** about 2 hours.
 
-**LLM use:** I used Claude as a tutor and pair-programmer. It proposed the code step by step (loading, CME session mapping, average-cost P&L, data checks, trader baseline and ranking), and it drafted the code review, the client reply and the slides. I ran every step, checked the outputs against an independent cash-flow check, and made the definitional choices. [TODO].
+**LLM use:** I used Claude as a tutor and pair-programmer. It proposed the code step by step (loading, CME session mapping, average-cost P&L, data checks, trader baseline and ranking), and it drafted the code review, the client reply and the slides. I ran every step, checked the outputs against an independent cash-flow check, and made the definitional choices.(https://github.com/juanesgarg/Technical-assessment-ML/blob/main/Traders%20in%20trouble.pptx).
 
 ## Background
 
@@ -22,7 +22,7 @@
 **Five short answers:**
 
 1. *What kind of modelling problem are you strongest with?* Time-series problems built on noisy sensor data, like predicting equipment failures from current, phase imbalance and runtime signals. I'm strongest at feature engineering from physical signals, because I built the data pipeline from the sensor up and know where the noise comes from.
-2. *What would be the steepest learning curve for you here?* Moving from rule-based systems to rigorously evaluated predictive models. My production alerts use thresholds, so I'm still building experience with labelling, temporal validation and measuring model quality at scale. [TODO: what I'm doing to close that gap]
+2. *What would be the steepest learning curve for you here?* Moving from rule-based systems to predictive models that are rigorously evaluated. My production alerts today are threshold-based, so the part I’m still growing into is everything around the model: defining good labels, validating on time-ordered data without leakage, and measuring whether a model actually beats the rules it replaces. This assessment was good practice for exactly that, and it’s the area I most want to deepen.
 3. *What is something you consider a core strength that we haven't asked about?* Root-cause debugging. I trace problems to the actual cause with evidence instead of patching symptoms. That matters in risk work, where a model that looks right can be quietly wrong.
 4. *What kind of work do you most want to do day-to-day?* Building new things: prototyping, testing hypotheses with data, and taking what works to production, owning it from start to finish.
 5. *What do you most want to avoid?* Purely repetitive work with no room to improve it. I'm fine with monitoring and maintenance when I own what I built, but not with routine that has no learning or improvement in it.
@@ -119,7 +119,7 @@ What this dataset doesn't give me: real outcomes, limits per account, status cha
 
 ## Task 3: Slides
 
-[TODO: slides link, added once the repo is on GitHub]
+(https://github.com/juanesgarg/Technical-assessment-ML/blob/main/Traders%20in%20trouble.pptx)
 
 ## Task 4: Code review
 
